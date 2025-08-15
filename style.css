@@ -1,0 +1,175 @@
+.d1{
+    width: 100vw;
+    height: 8vh;
+    background-image: radial-gradient(54.97% 272.54% at 27.36% -134.72%, rgba(108,148,255,.92)0, rgba(0,0,0,.92)100%);
+    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Gotham SSm;
+}
+
+.body{
+    margin: 0;
+}
+.d3{
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: -30px;
+}
+
+.d4{
+    font-size: 14px;
+}
+.a1{
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    text-underline-offset: 3px;
+}
+.d2{
+    width: 100vw;
+    height: 92vh;
+    background-color: transparent;
+    position: fixed;
+    
+}
+.video{
+    width: 100vw;
+    height: 92vh;
+    object-fit: cover;
+    position: fixed;
+
+}
+.img1{
+    width: 125px;
+    margin-left: 45px;
+    margin-top: 22px;
+    cursor: pointer;
+}
+.list1{
+    list-style: none;
+    margin-left: 410px;
+    margin-top: -18px;
+}
+.li1{
+    color: white;
+    font-size: 14px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    cursor: pointer;
+    display: inline;
+    margin-left: 27px;
+}
+.li2{
+    width: 23px;
+    margin-left: 15px;
+    cursor: pointer;
+
+}
+.list2{
+    list-style: none;
+    margin-left: 1177px;
+    margin-top: -37px;
+    display: flex;
+}
+.d5{
+    color: white;
+    font-size: 40px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+
+    display: flex;
+    justify-content: center;
+
+    margin-top: 20px;
+    margin-left: -18px;
+}
+
+.d6{
+    color: white;
+    font-size: 20px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+
+    display: flex;
+    justify-content: center;
+    margin-top: 4px;
+    margin-left: -18px;
+
+}
+.d7{
+    color: white;
+    font-size: 12px;
+    font-family: Gotham SSm;
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 4px;
+    margin-left: -18px;
+
+}
+.btn1{
+    width: 267px;
+    height: 42px;
+    background-color: white;
+
+    color: black;
+    font-size: 14px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+
+    border-style: none;
+    border-radius: 5px;
+    opacity: 0.8;
+    cursor: pointer;
+}
+.btn2{
+    width: 267px;
+    height: 42px;
+    margin-left: 20px;
+    background-color:rgb(37,36,36) ;
+
+    color: white;
+    font-size: 14px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+
+    border-style: none;
+    border-radius: 5px;
+    opacity: 0.8;
+    cursor: pointer;
+}
+.d8{
+    display: flex;
+    justify-content: center;
+    margin-top: 315px;
+    margin-left: -20px;
+}
+.d9{
+    color: white;
+    font-family: Gotham SSm;
+    font-size: 12px;
+    font-weight: 500;
+
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+    margin-left: -18px;
+}
+.a2{
+    color: white;
+    font-size:12px ;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    text-underline-offset: 3px;
+
+}
+.d10{
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+    margin-left: -18px;
+}
